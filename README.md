@@ -1,1 +1,3 @@
 # Mail-Bomber
+
+Here you can use this tool for mail bombing to victims mail id using smtp mail sevrver....
